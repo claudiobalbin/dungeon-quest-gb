@@ -12,6 +12,14 @@
 *.map
 *.exp
 
+# Compiled outputs
+*.gb
+*.ihx
+*.lst
+*.asm
+*.noi
+*.sym
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -47,6 +55,7 @@
 *.cmd
 .tmp_versions/
 gbdk/
+tools/
 modules.order
 Module.symvers
 Mkfile.old
